@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="32" ry="32" fill="rgb(192,132,252)"/>
+  <text x="50%" y="50%" font-family="'JetBrains Mono', monospace"
+        font-size="72" fill="#fff"
+        dominant-baseline="middle" text-anchor="middle"
+        font-variant-ligatures="none"
+        style="font-feature-settings:'liga' 0,'calt' 0">
+    &lt;st/&gt;
+  </text>
+</svg>

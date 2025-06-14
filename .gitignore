@@ -1,0 +1,48 @@
+# Created by https://www.toptal.com/developers/gitignore/api/nextjs
+# Edit at https://www.toptal.com/developers/gitignore?templates=nextjs
+
+### NextJS ###
+# dependencies
+node_modules
+public/components
+public/hooks
+public/.pnp
+public.pnp.js
+.next
+
+.firebase
+firebase.json
+
+# testing
+public/coverage
+
+# next.js
+public/.next/
+public/out/
+
+# production
+public/build
+
+# misc
+.DS_Store
+**.pem
+
+# debug
+public/npm-debug.log*
+public/yarn-debug.log*
+public/yarn-error.log*
+public/.pnpm-debug.log*
+
+# local env files
+public/.env*.local
+
+# vercel
+public/.vercel
+
+# typescript
+**.tsbuildinfo
+public/next-env.d.ts
+
+# End of https://www.toptal.com/developers/gitignore/api/nextjs
+
+out/
