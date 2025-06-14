@@ -46,3 +46,5 @@ public/next-env.d.ts
 # End of https://www.toptal.com/developers/gitignore/api/nextjs
 
 out/
+
+*.code-workspace
